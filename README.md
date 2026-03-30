@@ -1,2 +1,21 @@
-# Password-Strength-Checker
-A C program that checks the strength of a password based on length and character types (uppercase, lowercase, digits).
+# Password Strength Checker (C)
+
+This program analyzes a password and determines its strength.
+
+## Features
+- checks password length
+- detects uppercase letters
+- detects lowercase letters
+- detects digits
+- classifies strength (weak, medium, strong)
+
+## Concepts used
+- strings
+- loops (while)
+- conditions (if)
+
+## Compilation
+gcc main.c -o main
+
+## Execution
+./main
