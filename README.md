@@ -15,7 +15,8 @@ This program analyzes a password and determines its strength.
 - conditions (if)
 
 ## Compilation
-gcc main.c -o main
+gcc PasswordStrength.c -o PasswordStrength
 
 ## Execution
-./main
+./PasswordStrength
+
